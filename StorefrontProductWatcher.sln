@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorefrontProductWatcher", "StorefrontProductWatcher\StorefrontProductWatcher.csproj", "{42B63225-0F6F-49D3-B297-6BD8B8E635EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorefrontProductWatcher.Sdk", "StorefrontProductWatcher.Sdk\StorefrontProductWatcher.Sdk.csproj", "{12FFA306-2AA0-41E4-9D45-21D302A2FA1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorefrontProductWatcher.Fangamer", "StorefrontProductWatcher.Fangamer\StorefrontProductWatcher.Fangamer.csproj", "{787EC34C-1F53-44B5-B524-CCF6B3965E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42B63225-0F6F-49D3-B297-6BD8B8E635EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B63225-0F6F-49D3-B297-6BD8B8E635EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B63225-0F6F-49D3-B297-6BD8B8E635EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B63225-0F6F-49D3-B297-6BD8B8E635EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FFA306-2AA0-41E4-9D45-21D302A2FA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FFA306-2AA0-41E4-9D45-21D302A2FA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FFA306-2AA0-41E4-9D45-21D302A2FA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FFA306-2AA0-41E4-9D45-21D302A2FA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787EC34C-1F53-44B5-B524-CCF6B3965E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787EC34C-1F53-44B5-B524-CCF6B3965E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787EC34C-1F53-44B5-B524-CCF6B3965E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787EC34C-1F53-44B5-B524-CCF6B3965E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
