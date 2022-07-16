@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\StorefrontProductWatcher\StorefrontProductWatcher.csproj" />
+      <ProjectReference Include="..\StorefrontProductWatcher.Core\StorefrontProductWatcher.Core.csproj" />
     </ItemGroup>
 
 </Project>

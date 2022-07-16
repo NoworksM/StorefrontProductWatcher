@@ -1,7 +1,7 @@
 ﻿using StorefrontProductWatcher.Sdk.Data;
 using StorefrontProductWatcher.Sdk.Interfaces;
 
-namespace StorefrontProductWatcher;
+namespace StorefrontProductWatcher.Core;
 
 public class ConsoleLoggingProductAction : IProductAction
 {

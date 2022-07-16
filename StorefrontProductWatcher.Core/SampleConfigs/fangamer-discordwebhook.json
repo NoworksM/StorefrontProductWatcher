@@ -1,0 +1,15 @@
+﻿{
+  "watchers": [
+    {
+      "watcher": "FangamerStorefrontWatcher",
+      "actions": [
+        {
+          "name": "DiscordWebhook",
+          "options": {
+            "url": "https://discord.com/api/webhooks/944013066952122408/VKSU8nHdwMe7l-nUEWMYfajqHhSiEFX7z1-g9gIhmn9kcDxJVZ32woeILFJETnr_n6qG"
+          }
+        }
+      ]
+    }
+  ]
+}
